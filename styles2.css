@@ -92,20 +92,19 @@
   }
   .p-Home.Flex9 {
   display: flex;
-  padding-left: ;
+
   margin-left: 150px;
   margin-top: 220px;
   margin-bottom: 200px;
   flex-direction: column;
-  -moz-column-gap: ;
-       column-gap: ;
+
   row-gap: 35px;
   }
   .p-Home.Flex10 {
   display: flex;
   -moz-column-gap: 30px;
        column-gap: 30px;
-  border-radius: ;
+
   font-family: Poppins;
   }
   .p-Home.Flex11 {
@@ -114,7 +113,7 @@
   background-color: #D9D9D9ff;
   flex-direction: column;
   align-items: center;
-  padding-top: ;
+
   }
   .p-Home.Flex12 {
   display: flex;
@@ -164,12 +163,10 @@
   display: flex;
   background-color: #8EC642ff;
   width: 160px;
-  height: ;
+
   flex-direction: column;
   row-gap: 25px;
-  min-width: ;
   min-height: 150px;
-  max-width: ;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 0px;
@@ -203,7 +200,6 @@
   .p-Home.Flex20 {
   display: flex;
   margin-top: 35px;
-  row-gap: ;
   -moz-column-gap: 15px;
        column-gap: 15px;
   }
@@ -232,7 +228,6 @@
   }
   .p-Home.Flex25 {
   display: flex;
-  row-gap: ;
   -moz-column-gap: 25px;
        column-gap: 25px;
   }
@@ -243,14 +238,12 @@
   }
   .p-Home.Flex27 {
   display: flex;
-  row-gap: ;
   -moz-column-gap: 5px;
        column-gap: 5px;
   }
   .p-Home.Flex23 {
   display: flex;
   margin-top: 50px;
-  row-gap: ;
   align-items: stretch;
   justify-content: space-between;
   -moz-column-gap: 25px;
@@ -279,7 +272,6 @@
   }
   .p-Home.Flex31 {
   display: flex;
-  height: ;
   }
   .p-Home.Flex33 {
   display: flex;
@@ -308,7 +300,6 @@
   }
   .p-Home.Flex36 {
   display: flex;
-  margin-top: ;
   padding-right: 0px;
   margin-right: 40px;
   align-items: center;
@@ -474,7 +465,6 @@
   }
   .p-Home.Image7 {
   width: 100px;
-  padding-top: ;
   margin-top: 7px;
   }
   .p-Home.TextBox17 {
@@ -558,15 +548,10 @@
   border-color: transparent;
   background-color: #8EC642ff;
   }
-  .p-Home.TextBox23 {
-  ;
-  }
-  .p-Home.TextBox24 {
-  ;
-  }
+
   .p-Home.Flex28 {
   display: flex;
-  row-gap: ;
+
   position: relative;
   left: 60px;
   width: 200px;
@@ -590,12 +575,12 @@
   display: flex;
   height: 50vh;
   width: 100%;
-  background-image: url("/app-assets/2000.jpg");
+  background-image: url("./source/2000.jpg");
   background-repeat: round;
   background-attachment: fixed;
   background-origin: padding-box;
   position: static;
-  background-position-y: ;
+
   background-position-x: auto;
   overflow: visible;
   background-clip: border-box;
@@ -647,7 +632,7 @@
   margin-left: 0px;
   }
   .p-Home.Image14 {
-  height: ;
+
   color: #f1cfcf;
   font-family: Inter;
   font-weight: 700;
